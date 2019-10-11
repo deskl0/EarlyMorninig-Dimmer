@@ -31,5 +31,6 @@ Information feedback only.<br>仅作信息反馈
 5.  设置板载LED2 RGB<br>
 6.  System actived. Screen off, LED off, PWM standby.<br>
 6.  系统启动. 屏幕关闭, LED关闭, PWM就绪.
-<H2>If you disconnected the battery of RTC, you have to re-program the RTC!<br> Power deception current is 500mA, active periodly, depend on system config stage 3(minimal value is 20s). For each deceptive current actives, it last for 120ms.<br>如果你断开了RTC和电池, 你必须重新配置RTC!<br>电源欺骗电流500mA, 周期性启动, 取决于系统配置第三阶段(最小值20s). 对于每个欺骗电流启动, 持续120ms
+<H6>Onboard LEDs will start blinking at 2 mins before the start time<br>板载LED将会在开始时间前两分钟闪烁</H6>
+<H2>If you disconnected the battery of RTC, you have to re-program the RTC!<br> Power deception current is 500mA, active periodly, depend on system config stage 3(minimal value is 20s). For each deceptive current actives, it last for 120ms.<br>如果你断开了RTC和电池, 你必须重新编程RTC!<br>电源欺骗电流500mA, 周期性启动, 取决于系统配置第三阶段(最小值20s). 对于每个欺骗电流启动, 持续120ms
 </H2>
