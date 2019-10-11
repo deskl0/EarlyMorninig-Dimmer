@@ -3,7 +3,7 @@ Automatic light alarm/自动灯光唤醒
 <H3>This is an automatic dimmer for morning alarm clock.And a typical Arduino multi-Thread example. Completed with Arduino scoop library.<br>这是一个自动的清晨灯光闹钟, 也是一个典型的Arduino多线程实例. 使用Ardiono scoop 库实现.
   </H3>
 <br>Currenty I have two versions of it. The released one is based on Atmaga32u4 with arduino Leonardo. Another one is based on STM32F1, and it is undergoing.<br>
-目前有两个版本. 发布的这一个基于ATMAEGA32u4 使用Arduino Leonardo. 另一个基于STM32F1的版本正在制作.
+目前有两个版本. 发布的这一个基于Atmega32u4 使用Arduino Leonardo. 另一个基于STM32F1的版本正在制作.
 <H2>Usage</H2>
 <br> User interface is a 0.91' OLED and an rotatry encoder.
 <br> 用户界面是一个0.91英寸的OLED屏幕和一个旋转编码器
